@@ -2,9 +2,9 @@
         21 QUESTIONS - GAME SHEET
 ==========================================
 
-PLAYER (the one asking questions): ____________________
-HOST   (the one with the secret):  ____________________
-DATE:                              ____________________
+PLAYER (the one asking questions): Borys
+HOST   (the one with the secret):  Arisa 
+DATE: November 12th, 2026
 
 
 SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [ ] Animal
